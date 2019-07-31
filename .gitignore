@@ -267,3 +267,4 @@ __pycache__/
 Staging/
 
 inspectcodereport.xml
+.DS_Store
