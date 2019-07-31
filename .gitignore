@@ -268,3 +268,4 @@ Staging/
 
 inspectcodereport.xml
 .DS_Store
+*.xcuserstate

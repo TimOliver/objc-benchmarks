@@ -21,6 +21,7 @@
 		22D4BCFF22F1F0E50041436B /* ImageOptim.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCF822F1F0E50041436B /* ImageOptim.png */; };
 		22D4BD0022F1F0E50041436B /* ImageMagick-trim.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCF922F1F0E50041436B /* ImageMagick-trim.png */; };
 		22FBCCB622F1F5E700D1D979 /* ImageBenchmark.m in Sources */ = {isa = PBXBuildFile; fileRef = 22FBCCB522F1F5E700D1D979 /* ImageBenchmark.m */; };
+		22FBCCB822F1FA3E00D1D979 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 22FBCCB722F1FA3E00D1D979 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		22D4BCF922F1F0E50041436B /* ImageMagick-trim.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ImageMagick-trim.png"; sourceTree = "<group>"; };
 		22FBCCB422F1F5E700D1D979 /* ImageBenchmark.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageBenchmark.h; sourceTree = "<group>"; };
 		22FBCCB522F1F5E700D1D979 /* ImageBenchmark.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageBenchmark.m; sourceTree = "<group>"; };
+		22FBCCB722F1FA3E00D1D979 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = PNGDecodeBenchmark/README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		22D4BCCD22F1F0220041436B = {
 			isa = PBXGroup;
 			children = (
+				22FBCCB722F1FA3E00D1D979 /* README.md */,
 				22D4BCD822F1F0220041436B /* PNGDecodeBenchmark */,
 				22D4BCD722F1F0220041436B /* Products */,
 			);
@@ -171,6 +174,7 @@
 				22D4BCFC22F1F0E50041436B /* ImageOptim-trim.png in Resources */,
 				22D4BD0022F1F0E50041436B /* ImageMagick-trim.png in Resources */,
 				22D4BCFB22F1F0E50041436B /* Baseline.png in Resources */,
+				22FBCCB822F1FA3E00D1D979 /* README.md in Resources */,
 				22D4BCE422F1F0220041436B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
