@@ -17,13 +17,22 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
-    NSArray *files = @[@"Baseline.png",
-                        @"ImageMagick.png",
-                        @"ImageOptim-trim.png",
-                        @"Imagemagick_Channel.png",
-                        @"Pixelmator-trim.png",
-                        @"ImageOptim.png",
-                        @"ImageMagick-trim.png"];
+    NSArray *files = @[ @"Baseline",
+                        @"Baseline",
+                        @"ImageMagick",
+                        @"ImageMagick",
+                        @"ImageOptim-trim",
+                        @"ImageOptim-trim",
+                        @"Imagemagick_Channel",
+                        @"Imagemagick_Channel",
+                        @"Pixelmator-trim",
+                        @"Pixelmator-trim",
+                        @"ImageOptim",
+                        @"ImageOptim",
+                        @"ImageMagick-trim",
+                        @"ImageMagick-trim",
+                        @"Baseline",
+                        @"Baseline"];
 
     for (NSString *fileName in files) {
         uint64_t time = [ImageBenchmark runBenchmarkForImageWithName:fileName];

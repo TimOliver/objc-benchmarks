@@ -13,15 +13,15 @@
 		22D4BCE622F1F0240041436B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCE522F1F0240041436B /* Assets.xcassets */; };
 		22D4BCE922F1F0240041436B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCE722F1F0240041436B /* LaunchScreen.storyboard */; };
 		22D4BCEC22F1F0240041436B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D4BCEB22F1F0240041436B /* main.m */; };
-		22D4BCFA22F1F0E50041436B /* ImageMagick.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCF322F1F0E50041436B /* ImageMagick.png */; };
-		22D4BCFB22F1F0E50041436B /* Baseline.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCF422F1F0E50041436B /* Baseline.png */; };
-		22D4BCFC22F1F0E50041436B /* ImageOptim-trim.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCF522F1F0E50041436B /* ImageOptim-trim.png */; };
-		22D4BCFD22F1F0E50041436B /* Imagemagick_Channel.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCF622F1F0E50041436B /* Imagemagick_Channel.png */; };
-		22D4BCFE22F1F0E50041436B /* Pixelmator-trim.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCF722F1F0E50041436B /* Pixelmator-trim.png */; };
-		22D4BCFF22F1F0E50041436B /* ImageOptim.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCF822F1F0E50041436B /* ImageOptim.png */; };
-		22D4BD0022F1F0E50041436B /* ImageMagick-trim.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D4BCF922F1F0E50041436B /* ImageMagick-trim.png */; };
 		22FBCCB622F1F5E700D1D979 /* ImageBenchmark.m in Sources */ = {isa = PBXBuildFile; fileRef = 22FBCCB522F1F5E700D1D979 /* ImageBenchmark.m */; };
 		22FBCCB822F1FA3E00D1D979 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 22FBCCB722F1FA3E00D1D979 /* README.md */; };
+		22FBCCC022F2033400D1D979 /* Baseline in Resources */ = {isa = PBXBuildFile; fileRef = 22FBCCBD22F2030200D1D979 /* Baseline */; };
+		22FBCCC122F2033400D1D979 /* ImageMagick in Resources */ = {isa = PBXBuildFile; fileRef = 22FBCCB922F2030200D1D979 /* ImageMagick */; };
+		22FBCCC222F2033400D1D979 /* Imagemagick_Channel in Resources */ = {isa = PBXBuildFile; fileRef = 22FBCCBA22F2030200D1D979 /* Imagemagick_Channel */; };
+		22FBCCC322F2033400D1D979 /* ImageMagick-trim in Resources */ = {isa = PBXBuildFile; fileRef = 22FBCCBF22F2030200D1D979 /* ImageMagick-trim */; };
+		22FBCCC422F2033400D1D979 /* ImageOptim in Resources */ = {isa = PBXBuildFile; fileRef = 22FBCCBC22F2030200D1D979 /* ImageOptim */; };
+		22FBCCC522F2033400D1D979 /* ImageOptim-trim in Resources */ = {isa = PBXBuildFile; fileRef = 22FBCCBB22F2030200D1D979 /* ImageOptim-trim */; };
+		22FBCCC622F2033400D1D979 /* Pixelmator-trim in Resources */ = {isa = PBXBuildFile; fileRef = 22FBCCBE22F2030200D1D979 /* Pixelmator-trim */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,16 +35,16 @@
 		22D4BCE822F1F0240041436B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22D4BCEA22F1F0240041436B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22D4BCEB22F1F0240041436B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		22D4BCF322F1F0E50041436B /* ImageMagick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ImageMagick.png; sourceTree = "<group>"; };
-		22D4BCF422F1F0E50041436B /* Baseline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Baseline.png; sourceTree = "<group>"; };
-		22D4BCF522F1F0E50041436B /* ImageOptim-trim.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ImageOptim-trim.png"; sourceTree = "<group>"; };
-		22D4BCF622F1F0E50041436B /* Imagemagick_Channel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Imagemagick_Channel.png; sourceTree = "<group>"; };
-		22D4BCF722F1F0E50041436B /* Pixelmator-trim.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pixelmator-trim.png"; sourceTree = "<group>"; };
-		22D4BCF822F1F0E50041436B /* ImageOptim.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ImageOptim.png; sourceTree = "<group>"; };
-		22D4BCF922F1F0E50041436B /* ImageMagick-trim.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ImageMagick-trim.png"; sourceTree = "<group>"; };
 		22FBCCB422F1F5E700D1D979 /* ImageBenchmark.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageBenchmark.h; sourceTree = "<group>"; };
 		22FBCCB522F1F5E700D1D979 /* ImageBenchmark.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageBenchmark.m; sourceTree = "<group>"; };
 		22FBCCB722F1FA3E00D1D979 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = PNGDecodeBenchmark/README.md; sourceTree = "<group>"; };
+		22FBCCB922F2030200D1D979 /* ImageMagick */ = {isa = PBXFileReference; lastKnownFileType = file; path = ImageMagick; sourceTree = "<group>"; };
+		22FBCCBA22F2030200D1D979 /* Imagemagick_Channel */ = {isa = PBXFileReference; lastKnownFileType = file; path = Imagemagick_Channel; sourceTree = "<group>"; };
+		22FBCCBB22F2030200D1D979 /* ImageOptim-trim */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageOptim-trim"; sourceTree = "<group>"; };
+		22FBCCBC22F2030200D1D979 /* ImageOptim */ = {isa = PBXFileReference; lastKnownFileType = file; path = ImageOptim; sourceTree = "<group>"; };
+		22FBCCBD22F2030200D1D979 /* Baseline */ = {isa = PBXFileReference; lastKnownFileType = file; path = Baseline; sourceTree = "<group>"; };
+		22FBCCBE22F2030200D1D979 /* Pixelmator-trim */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pixelmator-trim"; sourceTree = "<group>"; };
+		22FBCCBF22F2030200D1D979 /* ImageMagick-trim */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageMagick-trim"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,13 +97,13 @@
 		22D4BCF222F1F0E50041436B /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				22D4BCF322F1F0E50041436B /* ImageMagick.png */,
-				22D4BCF422F1F0E50041436B /* Baseline.png */,
-				22D4BCF522F1F0E50041436B /* ImageOptim-trim.png */,
-				22D4BCF622F1F0E50041436B /* Imagemagick_Channel.png */,
-				22D4BCF722F1F0E50041436B /* Pixelmator-trim.png */,
-				22D4BCF822F1F0E50041436B /* ImageOptim.png */,
-				22D4BCF922F1F0E50041436B /* ImageMagick-trim.png */,
+				22FBCCBD22F2030200D1D979 /* Baseline */,
+				22FBCCB922F2030200D1D979 /* ImageMagick */,
+				22FBCCBA22F2030200D1D979 /* Imagemagick_Channel */,
+				22FBCCBF22F2030200D1D979 /* ImageMagick-trim */,
+				22FBCCBC22F2030200D1D979 /* ImageOptim */,
+				22FBCCBB22F2030200D1D979 /* ImageOptim-trim */,
+				22FBCCBE22F2030200D1D979 /* Pixelmator-trim */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -165,15 +165,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22D4BCFD22F1F0E50041436B /* Imagemagick_Channel.png in Resources */,
+				22FBCCC022F2033400D1D979 /* Baseline in Resources */,
+				22FBCCC122F2033400D1D979 /* ImageMagick in Resources */,
+				22FBCCC222F2033400D1D979 /* Imagemagick_Channel in Resources */,
+				22FBCCC322F2033400D1D979 /* ImageMagick-trim in Resources */,
+				22FBCCC422F2033400D1D979 /* ImageOptim in Resources */,
+				22FBCCC522F2033400D1D979 /* ImageOptim-trim in Resources */,
+				22FBCCC622F2033400D1D979 /* Pixelmator-trim in Resources */,
 				22D4BCE922F1F0240041436B /* LaunchScreen.storyboard in Resources */,
-				22D4BCFA22F1F0E50041436B /* ImageMagick.png in Resources */,
-				22D4BCFF22F1F0E50041436B /* ImageOptim.png in Resources */,
 				22D4BCE622F1F0240041436B /* Assets.xcassets in Resources */,
-				22D4BCFE22F1F0E50041436B /* Pixelmator-trim.png in Resources */,
-				22D4BCFC22F1F0E50041436B /* ImageOptim-trim.png in Resources */,
-				22D4BD0022F1F0E50041436B /* ImageMagick-trim.png in Resources */,
-				22D4BCFB22F1F0E50041436B /* Baseline.png in Resources */,
 				22FBCCB822F1FA3E00D1D979 /* README.md in Resources */,
 				22D4BCE422F1F0220041436B /* Main.storyboard in Resources */,
 			);
